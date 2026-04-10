@@ -2,8 +2,8 @@
 
 DESCRIPTION:
 
-SPURGEON is a clean and minimal free HTML blog template designed for lifestyle bloggers and 
-influencers. The thing you would love about it is its simplistic elegant design that emphasizes 
+BERDAIGLE is a clean and minimal free HTML blog template designed for travel bloggers and 
+influencers. The thing you would love about it is its simplistic elegant art that emphasizes 
 your site's content. It makes your site visitors fall in love with your blog content. 
 
 ==================================================================================================
@@ -68,7 +68,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since SPURGEON is distributed for free, support is not offered. SPURGEON is coded according 
+Since BERDAIGLE is distributed for free, support is not offered. BERDAIGLE is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
