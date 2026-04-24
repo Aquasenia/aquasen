@@ -386,6 +386,12 @@ img {
     border-style: none;
 }
 
+.credits_list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
 button,
 input,
 optgroup,
@@ -1578,7 +1584,7 @@ dfn[title] {
 }
 
 mark {
-    background: linear-gradient(-100deg, hsla(122, 15%, 31%, 0.3), hsla(140, 17%, 51%, 0.7) 95%, hsla(0, 0%, 100%, 0.1));
+    background: linear-gradient(-100deg, hsla(122, 15%, 31%, 0.3), hsla(140, 17%, 51%, 0.7) 95%);
     border-radius: 1em 0;
     padding: .5rem;
 }
